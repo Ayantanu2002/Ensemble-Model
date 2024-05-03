@@ -1,0 +1,1 @@
+This repository contains code for building an ensemble model using bagging, stacking, and boosting techniques. Ensemble learning combines multiple individual models to improve predictive performance and robustness. In this project, we use a combination of base models and ensemble methods to create a powerful predictive model.
